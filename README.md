@@ -30,8 +30,6 @@
 - 🔭 I'm currently working on **school management systems** (attendance, enrollment, grades, dormitory)
 - 🌱 I'm learning **[something new: e.g. Laravel / Vue / Docker]**
 - 💬 Ask me about **PHP, CodeIgniter, MySQL, payment integrations**
-- ⚡ Fun fact: **[something fun about you]**
-- 📫 Reach me at **[your email or social link]**
 
 ---
 
