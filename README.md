@@ -116,5 +116,6 @@
 
 </div>
 -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:7c3aed,100:4c1d95&height=120&section=footer)
+<!--
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:7c3aed,100:4c1d95&height=120&section=footer) -->
+</div> <img src="assets/footer.svg" alt="Footer" width="100%" />
