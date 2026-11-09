@@ -54,7 +54,7 @@
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -70,14 +70,14 @@
 
 ## 🚀 Featured Projects
 
-<!-- ✏️ Replace with your real projects. Pin repos on your profile too. -->
+<!-- ✏️ Replace with your real projects. Pin repos on your profile too. 
 | Project | What it does | Stack |
 |---|---|---|
 | 🎓 **[Project Name](https://github.com/shuuhatsu/repo)** | Student attendance with SMS guardian alerts | PHP, CodeIgniter, MySQL |
 | 💳 **[Project Name](https://github.com/shuuhatsu/repo)** | Online enrollment with payment integration | PHP, JavaScript |
 | 🪪 **[Project Name](https://github.com/shuuhatsu/repo)** | Auto-generated ID cards | PHP, GD Library |
 
-<!-- Tip: private/client work? Describe it generically, or build a small public demo. -->
+<!-- Tip: private/client work? Describe it generically, or build a small public demo. 
 
 ---
 
@@ -93,7 +93,7 @@
 
 ## 🏆 Achievements / Currently Exploring
 
-<!-- ✏️ Optional. Certificates, milestones, goals, or things you're studying. -->
+<!-- ✏️ Optional. Certificates, milestones, goals, or things you're studying.
 - ✅ [Milestone, e.g. Built a full enrollment + payment flow]
 - ✅ [Another achievement]
 - 🎯 Goal: [what you're aiming for next]
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<!-- ✏️ Replace the links. Remove any you don't use. -->
+<!-- ✏️ Replace the links. Remove any you don't use.
 [![Facebook](https://img.shields.io/badge/Facebook-7c3aed?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
 [![Gmail](https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -115,5 +115,6 @@
 *"Ship it, then make it better." 💜*
 
 </div>
+-->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:7c3aed,100:4c1d95&height=120&section=footer)
