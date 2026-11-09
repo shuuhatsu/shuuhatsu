@@ -8,7 +8,7 @@
 <!-- ───────────── HEADER BANNER ───────────── -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:c084fc&height=220&section=header&text=Hi,%20I'm%20Shua&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20School%20Systems&descSize=18&descAlignY=58&animation=fadeIn)
+<img src="assets/banner.svg" alt="Flame banner" width="100%" />
 
 <!-- ───────────── TYPING ANIMATION ───────────── -->
 <!-- ✏️ Change the lines= part. Separate each line with a semicolon, use + for spaces -->
